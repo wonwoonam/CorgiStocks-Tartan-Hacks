@@ -9,6 +9,3 @@ This is a project that was for Pinnacle, which is one of the biggest hackathons 
 <img width="461" alt="스크린샷 2021-12-28 오후 4 37 27" src="https://user-images.githubusercontent.com/16091547/147540923-693e96d7-9c4a-46a8-9eb2-d49b341e2b80.png">
 <img width="1767" alt="스크린샷 2021-12-28 오후 4 38 17" src="https://user-images.githubusercontent.com/16091547/147540995-0490a1cf-140c-45ba-a2fb-4876f54af33b.png">
 <img width="1771" alt="스크린샷 2021-12-28 오후 4 38 33" src="https://user-images.githubusercontent.com/16091547/147541018-00e5c870-a349-4563-a0a8-9fbe2eacdbd3.png">
-![Uploading 스크린샷 2021-12-28 오후 4.38.45.png…]()
-
-
